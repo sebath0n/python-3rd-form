@@ -1,0 +1,147 @@
+Which three variable names below are valid variable names in Python (i.e. we won’t get an error when we run code with these variable names): 
+
+ 
+
+2nd_place      user_name      total$      PlayerScore      print      _status 
+
+ 
+
+Answer: user_name 
+
+ 
+
+To join a string and a variable together in a print() statement, we use: 
+
+A) A dash (-) 
+
+B) A quotation mark (“) 
+
+C) A comma (,) 
+
+  
+
+Answer:  B
+
+ 
+
+ 
+
+In the code name = input("Enter name: "), what is the purpose of the text inside the quotes? 
+
+A) It is the variable name. 
+
+B) It is the "prompt" shown to the user. 
+
+C) It is the answer the user must type. 
+
+ 
+
+Answer:  B
+
+ 
+
+ 
+
+A variable can change its value many times during a program. Is this true or false?  
+
+ 
+
+Answer: true
+
+ 
+
+ 
+
+What will the following code display on the screen? 
+
+ 
+
+x = 5 
+
+y = 10 
+
+x = y 
+
+print(x) 
+
+ 
+
+Answer:  10
+
+ 
+
+ 
+
+Complete this line to ask the user for their favorite color and store it in a variable: 
+
+_________ = _________ ("What is your favorite color? ") 
+
+ 
+
+ 
+
+ 
+
+Which of these will print the word Hello without quotes? 
+
+A) print(Hello) 
+
+B) print("Hello") 
+
+C) input("Hello") 
+
+ 
+
+Answer:  
+
+ 
+
+ 
+
+ 
+
+ Write a program that asks for three separate pieces of information: 
+
+The user's First Name. 
+
+The user's Surname. 
+
+Their Current City. 
+
+ 
+
+Requirement: Use one single print() statement to output: "Hello [First Name] [Surname], welcome to [City]!" 
+
+ 
+
+Answer:  
+
+ 
+
+ 
+
+ 
+
+9.        Look at this code: 
+
+ 
+
+a = "Apples" 
+
+b = "Bananas" 
+
+ 
+
+Without simply typing a = "Bananas", write a program that swaps the values of a and b. 
+
+Hint: You might need a third variable called temp to hold one value while you switch them. 
+
+Print both variables at the end to prove they have swapped. 
+
+ 
+
+ 
+
+Answer:  
+
+ 
