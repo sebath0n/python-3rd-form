@@ -17,3 +17,7 @@ num = int(input("Enter number: "))
  
 if num >= 1 and num <= 10: 
     print("In range") 
+
+age = int(inpnut("ENter your age"))
+
+if age >= 5:
