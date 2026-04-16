@@ -3,3 +3,8 @@ user = input("Enter the secret code: ")
  
 if user == "python": 
     print("Access granted")
+
+num = int(input("Enter a number: ")) 
+ 
+if num % 2 == 0: 
+    print("Even number") 
