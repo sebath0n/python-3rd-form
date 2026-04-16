@@ -21,3 +21,16 @@ if password == correctPassword:
     print("Acess granted")
 else:
     print("Acess denied")
+
+cost = int(input("how much did you shopping cost"))
+if cost >= 100:
+    print(cost*0.9)
+else:
+    print(cost)
+
+username = input("enter your username")
+if username == "admin":
+    print("Welcome admin")
+else:
+    print("Acess limited")
+
