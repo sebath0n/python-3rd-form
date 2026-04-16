@@ -14,3 +14,10 @@ if age >= 13:
     print("Teenager")
 else:
     print("Child")
+
+correctPassword = "admin123"
+password = input("enter the password")
+if password == correctPassword:
+    print("Acess granted")
+else:
+    print("Acess denied")
