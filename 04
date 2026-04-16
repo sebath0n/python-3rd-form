@@ -8,3 +8,9 @@ num = int(input("Enter a number: "))
  
 if num % 2 == 0: 
     print("Even number") 
+
+age = int(input("enter your age"))
+if age >= 13:
+    print("Teenager")
+else:
+    print("Child")
