@@ -1,0 +1,40 @@
+Q1
+c
+a
+t
+
+Q2
+word = "Bannana"
+count = 0
+for char in word:
+  count = count + 1
+print(count)
+
+Q3
+it prints all the letters in car
+
+for character in "cat"
+  print(character)
+
+Q4
+it should print count instead of char
+
+word = "cheese" 
+count = 0 
+for char in word: 
+    if char == "e": 
+        count = count + 1 
+print(count) 
+
+Q5
+word = "Python"
+for char in "Python"
+  print(char)
+
+Q6
+word = input("Enter a word")
+for i in "word"
+  if i == "a" or i == "e" or i == "i" or i == "o" or i == "u":
+    print("Match")
+  else:
+    print("No match")
