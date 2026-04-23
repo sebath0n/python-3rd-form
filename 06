@@ -1,6 +1,27 @@
 Q1
+1
+2
+3
+4
+5
+Q2
+it would include all the numbers from 2 to 6
 for I in range (2, 7) 
+ print(i) 
+Q3
+num = int(input("Enter a number"))
+for i in range(num):
+ print("GO!")
 
-print(i) 
-
- 
+Q4
+3, 6, 9
+this prints all numbers between 0 and 10 which are multiples of 3
+Q5a, b
+for i in range(0, 11)
+ if i%2 = 0:
+  print("Even")
+ else:
+  print("Odd")
+Q6
+num = int(input("Enter a number"))
+print(num*num + num)
