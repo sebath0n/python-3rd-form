@@ -1,0 +1,6 @@
+Q1
+for I in range (2, 7) 
+
+print(i) 
+
+ 
