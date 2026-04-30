@@ -56,3 +56,13 @@ timesTable = int(input("Enter a times-table: "))
 while number < 13:
     print(timesTable ,"x", number, timesTable*number)
     number += 1
+
+Q8
+
+Q9
+number = 0
+while number < 11:
+  print(number)
+  number +=1
+
+Q10
