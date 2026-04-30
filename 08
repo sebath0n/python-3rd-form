@@ -30,3 +30,29 @@ username = ""
 while not username == "seb":
     username = str(input("Enter username: "))
 print("accepted")
+
+Q6
+
+import random
+
+number=random.randint(1,10)
+userGuess=int(input("Guess the number between 1-10"))
+
+# Add one line of code here to allow the user to
+#..guess the random number multiple times
+# Hint: You might need to indent some code
+while number != userGuess:
+  if number < userGuess:
+      userGuess=int(input("Guess to High, try again: "))
+  else:
+      userGuess=int(input("Guess to Low, try again: "))
+
+print("Yay! You got it correct!!!")
+
+Q7
+number = 1
+timesTable = int(input("Enter a times-table: "))
+
+while number < 13:
+    print(timesTable ,"x", number, timesTable*number)
+    number += 1
