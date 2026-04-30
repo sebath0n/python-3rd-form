@@ -17,3 +17,16 @@ while StayInLoop != 2:
   StayInLoop = int(input("Please respond, 1 or 2: "))
   print("Press 1 for  choice or 2 to exit")
 print("Exited")
+
+Q4
+loopCount = 1
+while loopCount < 11:
+  print("Loop", loopCount)
+  loopCount = loopCount + 1
+print("End")
+
+Q5
+username = ""
+while not username == "seb":
+    username = str(input("Enter username: "))
+print("accepted")
